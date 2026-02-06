@@ -80,7 +80,3 @@ An interactive Power BI dashboard was created to visualize:
 - Spending behavior by demographics  
 - Sales insights for business growth  
 
-### Dashboard File Included:
-
-```bash
-customer behavior dash board.pbix
